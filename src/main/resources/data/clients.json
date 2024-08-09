@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Даулет",
+    "balance": 200.35,
+    "trafficAmount": 1335885824
+  },
+  {
+    "name": "Mr. Beast",
+    "balance": 300,
+    "trafficAmount": 2438890024
+  },
+  {
+    "name": "John",
+    "balance": 550,
+    "trafficAmount": 3914736902
+  }
+]
